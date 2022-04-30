@@ -1,7 +1,3 @@
-Name: Alexander Nedev
-
-Student Number: 101195595
-
 Contents:
 
     README.txt
@@ -56,24 +52,3 @@ Contents:
 
     Airline.cc
         Implements all functions contained in Airline.h
-
-
-Compilation Instructions:
-
-    1) Download and unzip the "assignment4.zip" file in a
-       location that's convenient for you
-
-    2) Open a terminal and navigate it to the unzipped
-       assignment4 folder
-    
-    3) Run the command "make" or "make a4" and wait for
-       everything to compile
-    
-    4) Run the command "./a4" in order to run and test the
-       assignment. You can also run "valgrind ./a4" in order
-       to test to see if there are any memory leaks in the
-       program when it finishes running
-    
-    5) When you're done, you can use the command "make clean"
-       in order to delete all .o files along with the a4
-       executable
