@@ -1,5 +1,8 @@
 Contents:
 
+    class.py
+        A python file that can be used to make template c++ files
+
     README.txt
         Contains info on the classes and compilation
         instructions
